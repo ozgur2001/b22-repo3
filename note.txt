@@ -1,3 +1,9 @@
  we just published out local repo 
  to remote github.com repository
- 
+
+
+ now our work will continue locally 
+ 1. add a new file
+ 2.commited the change to local repo
+ 3. we want this change to be reflected in remote repository
+ 4. observe it hasbeen added in your repository under github.com
